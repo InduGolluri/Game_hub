@@ -2,8 +2,7 @@
 
 Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspired world of fun and games. Let's play and learn together!
 
-## Features
-* #### Variety of Games:
+## Features<br>* #### Variety of Games:
 Choose from six different games, including:<br><br>
 ○ Rock Paper Scissors<br>
 ○ Guess the Number<br>
@@ -80,9 +79,9 @@ Provides a single platform for users to enjoy multiple classic games.
 * #### Community Collaboration: 
 Open to developers for adding and improving games.
 * ####  Versatile Playground:
-* Allows experimentation with various game mechanics.
+ Allows experimentation with various game mechanics.
 * #### Accessible Entertainment:
-* Aims to make classic games easily accessible to all.
+  Aims to make classic games easily accessible to all.
 
 ## Future Plans
 *  #### Adding New Games: 
