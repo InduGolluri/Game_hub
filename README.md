@@ -3,7 +3,8 @@
 Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspired world of fun and games. Let's play and learn together!
 
 ## Features
-* Variety of Games: Choose from six different games, including:<br>
+* #### Variety of Games:
+ Choose from six different games, including:<br>
 ○ Rock Paper Scissors<br>
 ○ Guess the Number<br>
 ○ General Knowledge Quiz<br>
@@ -12,25 +13,25 @@ Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspi
 ○ Anagram Solver<br>
 
 
-* User-Friendly Interface:
+* #### User-Friendly Interface:
 Navigate through the hub easily with clear prompts and instructions.
-* ASCII Art Logo: 
+* #### ASCII Art Logo: 
 Enjoy a visual treat with a cool ASCII art logo.
-* Replayable fun:
+* ####  Replayable fun:
 Challenge yourself or friends again and again!
 
 ## How to play
  #### 1.Rock Paper Scissors<br>
 
-○ Description: 
+○ ##### Description: 
 Classic hand game with a simple interface.<br>
-○ How to Play: 
+○ ##### How to Play: 
 Choose rock, paper, or scissors and compete against the computer.
  #### 2.Guess the Number <br>
 
-○ Description:
+○ ##### Description:
 Test your intuition by guessing the correct number.<br>
-○ How to Play:
+○ ##### How to Play:
 Input your guess and find out if it matches the randomly generated number.
 
 #### 3.General Knowledge Quiz
