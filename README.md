@@ -2,7 +2,8 @@
 
 Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspired world of fun and games. Let's play and learn together!
 
-## Features<br>* #### Variety of Games:
+## Features
+* #### Variety of Games:
 Choose from six different games, including:<br><br>
 ○ Rock Paper Scissors<br>
 ○ Guess the Number<br>
