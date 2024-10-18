@@ -4,12 +4,12 @@ Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspi
 
 ## Features
 * Variety of Games: Choose from six different games, including:
-+ Rock Paper Scissors
-+ Guess the Number
-+ General Knowledge Quiz
-+ Hangman
-+ Tic Tac Toe
-+ Anagram Solver
+○ Rock Paper Scissors
+○ Guess the Number
+○ General Knowledge Quiz
+○ Hangman
+○ Tic Tac Toe
+○ Anagram Solver
 
 
 * User-Friendly Interface:
@@ -20,41 +20,42 @@ Enjoy a visual treat with a cool ASCII art logo.
 Challenge yourself or friends again and again!
 
 ## How to play
-1.Rock Paper Scissors
+ ## 1.Rock Paper Scissors
 
-* Description: 
+○ Description: 
 Classic hand game with a simple interface.
-* How to Play: 
+○ How to Play: 
 Choose rock, paper, or scissors and compete against the computer.
-2.Guess the Number
+ ## 2.Guess the Number
 
-* Description:
+○ Description:
 Test your intuition by guessing the correct number.
-* How to Play:
+○ How to Play:
 Input your guess and find out if it matches the randomly generated number.
-3.General Knowledge Quiz
 
-* Description:
+## 3.General Knowledge Quiz
+
+○ Description:
 Engage in a quiz to test your general knowledge.
-* How to Play: 
+○ How to Play: 
 Answer a series of questions and see how many you can get right.
-4.Hangman Game
+## 4.Hangman Game
 
-* Description: 
+○ Description: 
 A word-guessing game with a hangman theme.
-* How to Play:
+○ How to Play:
 Try to guess the hidden word by suggesting letters within a limited number of attempts.
-5.Tic Tac Toe
+## 5.Tic Tac Toe
 
-* Description:
+○ Description:
 Classic Tic Tac Toe game with a simple interface.
-* How to Play:
+○ How to Play:
 Make your moves strategically to get three in a row and win the game.
-6.Anagram Solver
+## 6.Anagram Solver
 
-* Description:
+○ Description:
 Solve anagrams and enhance your vocabulary.
-* How to Play:
+○ How to Play:
 Input a set of letters, and the program will find all possible anagrams.
 
 ## Why I Developed This
