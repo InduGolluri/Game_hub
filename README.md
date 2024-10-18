@@ -70,14 +70,16 @@ The project aims to consolidate multiple games into a single platform, eliminati
 Developing and managing this project contributes to my personal growth as a programmer and game developer.
 
 ## This Project Serves As
-* Learning Platform:
+* #### Learning Platform:
 Enhances programming skills and explores game development concepts.
-* Unified Gaming Experience:
+* #### Unified Gaming Experience:
 Provides a single platform for users to enjoy multiple classic games.
-* Community Collaboration: 
+* #### Community Collaboration: 
 Open to developers for adding and improving games.
-* Versatile Playground: Allows experimentation with various game mechanics.
-* Accessible Entertainment: Aims to make classic games easily accessible to all.
+* ####  Versatile Playground:
+* Allows experimentation with various game mechanics.
+* #### Accessible Entertainment:
+* Aims to make classic games easily accessible to all.
 
 ## Future Plans
 *  #### Adding New Games: 
@@ -85,9 +87,9 @@ Expand the collection by incorporating additional classic games or creating enti
 * #### Enhanced User Interface:
 Improve the visual appeal and user experience with enhanced graphics and interactive elements.
 * #### Multiplayer Functionality:
-*  Introduce multiplayer capabilities for selected games to allow users to play with friends.
+Introduce multiplayer capabilities for selected games to allow users to play with friends.
 * #### Cross-Platform Support:
-*  Extend compatibility to various platforms, making the Game Hub accessible to a wider audience.
+Extend compatibility to various platforms, making the Game Hub accessible to a wider audience.
 
   
 ## Getting Started
