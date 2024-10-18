@@ -4,7 +4,7 @@ Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspi
 
 ## Features
 * #### Variety of Games:
- Choose from six different games, including:<br>
+Choose from six different games, including:<br><br>
 ○ Rock Paper Scissors<br>
 ○ Guess the Number<br>
 ○ General Knowledge Quiz<br>
@@ -23,9 +23,10 @@ Challenge yourself or friends again and again!
 ## How to play
  #### 1.Rock Paper Scissors<br>
 
-○ ##### Description: 
+
+○  Description: 
 Classic hand game with a simple interface.<br>
-○ ##### How to Play: 
+○  How to Play: 
 Choose rock, paper, or scissors and compete against the computer.
  #### 2.Guess the Number <br>
 
