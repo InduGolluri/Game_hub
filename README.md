@@ -30,9 +30,9 @@ Classic hand game with a simple interface.<br>
 Choose rock, paper, or scissors and compete against the computer.
  #### 2.Guess the Number <br>
 
-○ ##### Description:
+○ Description:
 Test your intuition by guessing the correct number.<br>
-○ ##### How to Play:
+○  How to Play:
 Input your guess and find out if it matches the randomly generated number.
 
 #### 3.General Knowledge Quiz
@@ -61,15 +61,15 @@ Solve anagrams and enhance your vocabulary.<br>
 Input a set of letters, and the program will find all possible anagrams.
 
 ## Why I Developed This
-* Skill Enhancement: 
+* #### Skill Enhancement: 
 I developed this project as a means to enhance my programming skills and delve into game development concepts.
-* Exploration of Concepts: 
+* #### Exploration of Concepts: 
 The Game Hub serves as a platform for experimenting with various game development techniques and concepts.
-* Fun and Enjoyment:
+* #### Fun and Enjoyment:
 Creating a collection of classic games was driven by the desire to provide users with a fun and interactive experience.
-* Single Platform Access: 
+* #### Single Platform Access: 
 The project aims to consolidate multiple games into a single platform, eliminating the need for users to install and manage separate game applications.
-* Personal Growth: 
+* #### Personal Growth: 
 Developing and managing this project contributes to my personal growth as a programmer and game developer.
 
 ## This Project Serves As
