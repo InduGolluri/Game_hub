@@ -103,4 +103,4 @@ Run the script and have fun!
 
 Thank you!
 
-Developed by: Grishma Gedela (HINDHU GOLLURI, GameHub)
+Developed by: HINDHU GOLLURI (HINDHU GOLLURI, GameHub)
