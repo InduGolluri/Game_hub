@@ -80,13 +80,16 @@ Open to developers for adding and improving games.
 * Accessible Entertainment: Aims to make classic games easily accessible to all.
 
 ## Future Plans
-* Adding New Games: 
+*  #### Adding New Games: 
 Expand the collection by incorporating additional classic games or creating entirely new ones.
-* Enhanced User Interface: Improve the visual appeal and user experience with enhanced graphics and interactive elements.
-* Multiplayer Functionality: Introduce multiplayer capabilities for selected games to allow users to play with friends.
-* Cross-Platform Support: Extend compatibility to various platforms, making the Game Hub accessible to a wider audience.
+* #### Enhanced User Interface:
+Improve the visual appeal and user experience with enhanced graphics and interactive elements.
+* #### Multiplayer Functionality:
+*  Introduce multiplayer capabilities for selected games to allow users to play with friends.
+* #### Cross-Platform Support:
+*  Extend compatibility to various platforms, making the Game Hub accessible to a wider audience.
 
-* 
+  
 ## Getting Started
 
 Download the source code: GameHub Project
