@@ -97,7 +97,7 @@ Extend compatibility to various platforms, making the Game Hub accessible to a w
   
 ## Getting Started
 
-Download the source code: [GameHub Project] (https://github.com/InduGolluri/Game_hub-Python.git)
+Download the source code: [GameHub Project] (https://github.com/InduGolluri/Game_hub)
 
 Run the script and have fun!
 
