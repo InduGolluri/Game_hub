@@ -4,12 +4,12 @@ Hey, it's Hindhu, your 3nd-year BTech friend! Welcome to Game Hub, my tech-inspi
 
 ## Features
 * Variety of Games: Choose from six different games, including:
-Rock Paper Scissors
-Guess the Number
-General Knowledge Quiz
-Hangman
-Tic Tac Toe
-Anagram Solver
++ Rock Paper Scissors
++ Guess the Number
++ General Knowledge Quiz
++ Hangman
++ Tic Tac Toe
++ Anagram Solver
 
 
 * User-Friendly Interface:
